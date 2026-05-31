@@ -1,2 +1,2 @@
-# python-tic-tac-toe
+# python-rock-paper-scissors
 beginner python project
